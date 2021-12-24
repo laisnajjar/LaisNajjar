@@ -8,8 +8,9 @@ I'm professionally interested in a lot of things:
 🥅 Skils:
 - C++
 - Python
+- I will add more, don't worry 😉
 
-🎆 Current interests includ...
+🎆 Current interests...
 - Web 3.0 
 - Defi trading
 - Ios development
