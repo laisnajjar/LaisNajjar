@@ -16,6 +16,8 @@ I'm professionally interested in a lot of things:
 - Ios development
 - AI/Machine Learning
 
+
+
 - 🔭 I’m currently working on ... an NFT project (if you can't beat them, join them)
 - 🌱 I’m currently learning ... CSS, JavaScript, and Html
 - 👯 I’m looking to collaborate on ... ANYTHING (desperate, right?)
