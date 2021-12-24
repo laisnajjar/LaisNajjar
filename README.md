@@ -5,19 +5,19 @@ I'm a freshman at the University of Michigan 〽️ studying mathematics of fina
 I'm professionally interested in a lot of things:
 🔥Quant, Software Engineer, Project Management, Investment Banking, Private Equity, Hedge Funds🔥
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 🥅 Skills:
 - C++
 - Python
 - I''ll add more, don't worry 😉
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
 - Web 3.0 
 - Defi trading
 - Ios development
 - AI/Machine Learning
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on ... an NFT project (if you can't beat them, join them)
 - 🌱 I’m currently learning ... CSS, JavaScript, and Html
 - 👯 I’m looking to collaborate on ... ANYTHING (desperate, right?)
