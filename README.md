@@ -7,7 +7,7 @@ I'm professionally interested in a lot of things:
 
 🥅 Skils:
 - C++
-- Pyhton
+- Python
 
 🎆 Current interests includ...
 - Web 3.0 
