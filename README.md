@@ -1,9 +1,9 @@
 Hello World !!! 
 
-I'm a freshman at the University of Michigan 〽️ studying mathematics of finance and risk management ➗ as well as computer science🖥️
+I'm a rising sophmore at the University of Michigan 〽️ studying computer science🖥️
 
 I'm professionally interested in a lot of things:
-🔥Quant, Software Engineer, Project Management, Investment Banking, Private Equity, Hedge Funds🔥
+🔥Software Engineer, Project Management, Quant🔥
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 🥅 Languages:
@@ -14,9 +14,8 @@ I'm professionally interested in a lot of things:
 - JavaScript
 -------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
-- Quant 
-- Ios development
-- AI/Machine Learning
+- Huraki Murakami Novels 
+- IOS development
 -------------------------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m currently learning ... CSS, JavaScript, and Html
 - 👯 I’m looking to collaborate on ... ANYTHING (desperate, right?)
