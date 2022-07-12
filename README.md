@@ -6,25 +6,22 @@ I'm professionally interested in a lot of things:
 🔥Quant, Software Engineer, Project Management, Investment Banking, Private Equity, Hedge Funds🔥
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-🥅 Skills:
+🥅 Languages:
 - C++
 - Python
-- I''ll add more, don't worry 😉
+- Html
+- CSS
+- JavaScript
 -------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
-- Web 3.0 
-- Defi trading
+- Quant 
 - Ios development
 - AI/Machine Learning
-
 -------------------------------------------------------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on ... an NFT project (if you can't beat them, join them)
 - 🌱 I’m currently learning ... CSS, JavaScript, and Html
 - 👯 I’m looking to collaborate on ... ANYTHING (desperate, right?)
 - 🤔 I’m looking for help with ... finding a neat internship
 - 💬 Ask me for ... book reccomendations, I have a ton
-- 📫 How to reach me: 
-linkedin: https://www.linkedin.com/in/lais-najjar-7a98aa158/ 
-- 😄 Pronouns: he/him
+- 📫 How to reach me: linkedin: https://www.linkedin.com/in/lais-najjar-7a98aa158/ 
 - ⚡ Fun fact: I am a world cup medalist in men's gymnastics (yeah, who else can say that?)
 
