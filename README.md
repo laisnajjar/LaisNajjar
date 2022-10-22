@@ -1,6 +1,6 @@
 Hello World !!! 
 
-I'm a rising sophmore at the University of Michigan 〽️ studying computer science🖥️
+I'm a sophmore at the University of Michigan 〽️ studying computer science🖥️ (Expected Grad: 2024)
 
 I'm professionally interested in a lot of things:
 🔥Software Engineer, Project Management, Quant🔥
@@ -9,9 +9,9 @@ I'm professionally interested in a lot of things:
 🥅 Languages:
 - C++
 - Python
+- JavaScript
 - Html
 - CSS
-- JavaScript
 -------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
 - Huraki Murakami Novels 
