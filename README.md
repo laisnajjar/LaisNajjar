@@ -7,8 +7,9 @@ I'm professionally interested in a lot of things:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 🥅 Languages:
-- C++
+- C/C++
 - Python
+- Java
 - JavaScript
 - Html
 - CSS
@@ -17,7 +18,7 @@ I'm professionally interested in a lot of things:
 - Huraki Murakami Novels 
 - IOS development
 -------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning ... CSS, JavaScript, and Html
+- 🌱 I’m currently learning ... everything about Databases
 - 👯 I’m looking to collaborate on ... ANYTHING (desperate, right?)
 - 🤔 I’m looking for help with ... finding a neat internship
 - 💬 Ask me for ... book reccomendations, I have a ton
