@@ -11,8 +11,8 @@ I'm professionally interested in a lot of things:
 - Python
 - Java
 - JavaScript
-- Html
-- CSS
+- SQL
+- Html/CSS
 -------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
 - Huraki Murakami Novels 
