@@ -13,6 +13,12 @@ I'm professionally interested in a lot of things:
 - JavaScript
 - SQL
 - Html/CSS
+
+Tools/Frameworks
+- Oracle
+- MongoDB
+- Linux/Ubuntu
+- Visual Studio Code
 -------------------------------------------------------------------------------------------------------------------------------------------
 🎆 Current interests...
 - Huraki Murakami Novels 
