@@ -15,6 +15,8 @@ I'm professionally interested in a lot of things:
 - Html/CSS
 
 Tools/Frameworks
+- React
+- Flask
 - Oracle
 - MongoDB
 - Linux/Ubuntu
