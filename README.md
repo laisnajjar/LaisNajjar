@@ -1,6 +1,6 @@
 Hello World !!! 
 
-I'm a Junior at the University of Michigan 〽️ studying computer science🖥️ (Expected Grad: 2025)
+I'm a Senior at the University of Michigan 〽️ studying computer science🖥️ (Expected Grad: 2025)
 
 I'm professionally interested in a lot of things:
 🔥Software Engineer, Project Management, Quant🔥
